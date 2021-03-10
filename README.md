@@ -1,4 +1,4 @@
-# rest-api-demp-angular-net-core
+# rest-api-demo-angular-net-core
 
 Quick demo for an API using netcore in the backend and angular in the frontend
 
